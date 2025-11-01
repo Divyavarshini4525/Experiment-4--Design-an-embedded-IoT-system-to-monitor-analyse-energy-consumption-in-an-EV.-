@@ -6,9 +6,10 @@ To design an embedded IoT system to monitor and analyze energy consumption in an
 ## THEORY
 1. Energy Consumption in EVs
 •	Power (W) = Voltage (V) × Current (A)
+
 •	Energy (kWh) = Power × Time
 •	Battery efficiency = (Energy used / Battery capacity) × 100
-2. IoT-Based Monitoring Without Cloud
+3. IoT-Based Monitoring Without Cloud
 Instead of using ThingSpeak, this experiment simulates real-time sensor data using MATLAB and analyzes power trends locally.
  
  ## PROCEDURE
