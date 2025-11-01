@@ -76,10 +76,8 @@ grid on;
  
 ## MATLAB OUTPUT
 
-![Uploading image.png…]()
+<img width="699" height="625" alt="image" src="https://github.com/user-attachments/assets/d7505abe-9fb1-4a7f-af11-6a68447344a7" />
 
-
- 
   
 ## CONCLUSION
 This experiment demonstrated an embedded MATLAB system for analyzing EV energy consumption. It helps optimize battery usage and improve vehicle efficiency.
